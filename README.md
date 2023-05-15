@@ -14,7 +14,7 @@ O Cartão vai permitir NFC(Aproximação), as informações são obtidas por API
 
 O Desenvolvimento foi feito em React que usa linguagem de JavaScript. É necessário buscar entender o Expo GO, React, Native Base, Firebase, APIs e o funcionamento do NFC!
 
-O projeto foi finalizado até o nível de protótipo e foi assumido pela PROCERGS para o desenvolvimento do produto final! Se vc quiser testar o aplicativo, basta baixar o [APK](/Apk%20Donwload/application-e2c8e862-80e5-4b41-a43e-585c4c562cfd.apk).
+O projeto foi finalizado até o nível de protótipo e foi assumido pela PROCERGS para o desenvolvimento do produto final! Se vc quiser testar o aplicativo, basta baixar o [APK](Apk/application-8491db70-2c4b-4414-89d6-9910c37c4da5.apk)
 
 Se vc deseja clonar este projeto é importante saber que alguns arquivos precisam ser alterados e outros foram removidos para garantir a segurança das informações!
 

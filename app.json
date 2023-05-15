@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "saudeapp",
-    "slug": "saudeapp",
-    "owner": "bigodrigo",
+    "slug": "app-saude",
+    "owner": "artur-abreu",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
@@ -13,7 +13,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "ac04a4f1-b88e-4951-867a-ba5a4e45f885"
+        "projectId": "2d3507a6-954f-4a62-be09-b74820cbb4a7"
       }
     },
     "android": {
